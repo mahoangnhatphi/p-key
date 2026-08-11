@@ -1,0 +1,10 @@
+*.a
+*.compiled
+*.exe
+*.lps
+*.o
+*.obj
+*.ppu
+*.res
+
+src/backup/

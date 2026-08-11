@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectOptions>
+    <Version Value="12"/>
+    <General>
+      <Flags>
+        <MainUnitHasCreateFormStatements Value="True"/>
+        <MainUnitHasTitleStatement Value="True"/>
+      </Flags>
+      <SessionStorage Value="InProjectDir"/>
+      <Title Value="P-Key"/>
+    </General>
+    <BuildModes Count="1">
+      <Item1 Name="Default" Default="True"/>
+    </BuildModes>
+    <RequiredPackages Count="1">
+      <Item1>
+        <PackageName Value="LCL"/>
+      </Item1>
+    </RequiredPackages>
+    <Units Count="2">
+      <Unit0>
+        <Filename Value="p_key.lpr"/>
+        <IsPartOfProject Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="main_form.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="main_form"/>
+      </Unit1>
+    </Units>
+    <CompilerOptions>
+      <Version Value="11"/>
+      <Target>
+        <Filename Value="p_key.exe"/>
+      </Target>
+      <SearchPaths>
+        <OtherUnitFiles Value="."/>
+      </SearchPaths>
+      <CodeGeneration>
+        <Checks>
+          <IOChecks Value="True"/>
+          <RangeChecks Value="True"/>
+          <OverflowChecks Value="True"/>
+        </Checks>
+      </CodeGeneration>
+      <Other>
+        <CustomOptions Value="-FcUTF8"/>
+      </Other>
+    </CompilerOptions>
+  </ProjectOptions>
+</CONFIG>
